@@ -1,3 +1,1 @@
-#!/bin/bash
-A fresh dive intoShell
-
+Practicing shell permission
